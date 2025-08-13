@@ -1,5 +1,5 @@
 # Image-Classification-Using-CNN
-# Cat vs. Dog Image Classification using CNN
+# Dog vs. Cat Image Classification using CNN
 
 This project implements a Convolutional Neural Network (CNN) to classify images of cats and dogs. By leveraging deep learning, the model automatically learns to distinguish between the two animals with high accuracy. This project serves as a practical introduction to image classification and the power of CNNs.
 
